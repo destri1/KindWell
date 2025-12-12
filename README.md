@@ -5,11 +5,11 @@ Deskripsi Proyek
 Website E-Kesehatan Ibu & Anak ini dibuat untuk membantu proses edukasi, pemantauan kunjungan, dan pencatatan pemeriksaan dasar*antara bidan/admin dan ibu/pasien.
 Sistem ini menyediakan konten edukatif, jadwal kunjungan terstruktur, serta pencatatan data yang lebih aman dan efisien dibandingkan metode manual.
 
-Pembagian Tugas Anggota Kelompok
-Azizah, Destri, Elghiarel Style Css
-Dzubyan fauzan dan Dinda Front End
-Fauzan dan Dimas backend
-Dimas aprilino database
+Pembagian Tugas anggota Kelompok:
+Frontend: Azizah, Fauzan, Destri
+Backend: Dimas Aprilino, Elghiariel, Dinda
+Style Css: Fauzan
+
 
 Tujuan
 
